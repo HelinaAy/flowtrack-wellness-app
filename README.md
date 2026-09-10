@@ -1,6 +1,12 @@
 # flowtrack-wellness-app 🌸
+
 A full-stack menstrual cycle planner and wellness tracker built with React, Express, and MySQL — featuring live cycle predictions, symptom insights, and phase-based wellness guidance.
 
+## 👤 Author
+
+Built by Hilina Ayalew as the final individual capstone project for the **WabiSkills Full-Stack Development Bootcamp**.
+
+---
 FlowTrack helps users log their cycle, understand their current phase, and receive personalized wellness guidance — turning daily tracking into visible, useful patterns over time rather than guesswork.
 
 ---
